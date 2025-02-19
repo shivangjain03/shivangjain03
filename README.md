@@ -1,5 +1,5 @@
-<h1 align="center">Turning Imagination Into Reality</h1>
-<h2 align="center>"Hi 👋, I'm Shivang Jain</h2>
+<h1 align="center">Turning Imagination Into Reality <img src="https://tenor.com/en-IN/view/imagination-spongebob-bera-berachain-bear-gif-12306135851237864568" width="52px" height="52px"></h1>
+<h2 align="center">Hi 👋, I'm Shivang Jain</h2>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
