@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>🇨🇦 Based in Canada · Building things for the web · Open to collaboration</em>
+  <em>🇨🇦 Based in Canada · Building things · Open to collaboration</em>
 </p>
 
 <p align="center">
